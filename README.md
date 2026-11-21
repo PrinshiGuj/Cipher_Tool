@@ -163,7 +163,7 @@ Tested on the 593-letter sample text:
 
 ## 👤 Author
 
-**[Your Name]** — Labmentix Cybersecurity Training Program
+**PRINS GAJERA** — Labmentix Cybersecurity Training Program
 
 ## ⚖️ Disclaimer
 
